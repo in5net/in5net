@@ -9,3 +9,4 @@ There are infinite possibilities to what cool things you can make
 - Max heaps are cool
 - Linked lists are mid
 - nvim + tmux are a force to reckon
+- I don't like making UI
